@@ -1,0 +1,10 @@
+---
+name: User Story2
+about: This is our default user story template 2
+title: 'USER STORY: <TITLE-new>'
+labels: ''
+assignees: ''
+
+---
+
+In order to **receive benefit** as a **role**, I can **goal / desire**
